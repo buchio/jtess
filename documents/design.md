@@ -5,7 +5,7 @@
 
 # 概要設計
 
-![Overview](figures/UseCase_Overview.png)
+![Overview](figures/jtess/Overview/UseCase_Overview.png)
 
 # 参考
 
