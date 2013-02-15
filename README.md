@@ -12,4 +12,4 @@ jtess
 
 これらの機能を実現するためにまずは設計から開始します。
 
-[設計ドキュメント] (DEVELOPMENT.md)
+[設計ドキュメント] (documents/design.md)
