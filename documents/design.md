@@ -20,7 +20,7 @@
 ## テセレーション
 
 * [Tess](http://www.peda.com/tess/)
-  ほぼ唯一のテセレーション専用エディタ。Mac版はClassic環境でしか動作しない。
+  テセレーション専用エディタ。Mac版はClassic環境でしか動作しない。
 * http://www.eschertile.com
   ヘーシュタイリングについて
 
